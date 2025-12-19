@@ -18,7 +18,7 @@ Realizar uma análise descritiva das vendas, identificando faturamento total, de
 - Entregáveis:
   - Arquivo Excel estruturado
   - Análise descritiva documentada
-
+O escopo detalhado do projeto pode ser encontrado em `docs/escopo-do-projeto.pdf`.
 
 ## Ferramentas Utilizadas
 - Microsoft Excel
