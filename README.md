@@ -8,6 +8,18 @@ A empresa não possuía uma visão consolidada sobre seu desempenho de vendas no
 ## Objetivo
 Realizar uma análise descritiva das vendas, identificando faturamento total, desempenho por produto e categoria, meses de maior faturamento e atingimento de metas.
 
+## Escopo do Projeto
+- Período analisado: 2º semestre de 2025
+- Tipo de análise: Análise descritiva
+- Atividades incluídas:
+  - Organização e tratamento da base de dados
+  - Análise de faturamento por produto, categoria e período
+  - Verificação de atingimento de metas
+- Entregáveis:
+  - Arquivo Excel estruturado
+  - Análise descritiva documentada
+
+
 ## Ferramentas Utilizadas
 - Microsoft Excel
 
